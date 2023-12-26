@@ -1,0 +1,7 @@
+.a-custom-hover {
+  color: white;
+  transition: color 0.5s;
+}
+.a-custom-hover:hover {
+  color: red;
+}
